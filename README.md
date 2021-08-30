@@ -1,5 +1,5 @@
 # Hey Moon
-[DEMO](https://thomomit.github.io/heymoon/demo/build/)
+[DEMO](https://thomomit.github.io/heymoon/build/)
 ![Shoot](heymoonshoot.png)
 
 ## Usage
